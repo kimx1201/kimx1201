@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Writer 📝 + Data Scientist 📊  + Designer 🎨  = It's me! 🙌
 
 > lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
-> trying to be a data-driven with critical thinking, seeking insight from data<br>
+> trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
 ### Experienced skills
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
