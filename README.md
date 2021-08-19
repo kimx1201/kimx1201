@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Writer 📝 + Data Scientist 📊  + Designer 🎨  = It's me! 🙌
-
 > lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
 > trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
