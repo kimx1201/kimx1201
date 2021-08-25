@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
 > trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
-### Experienced skills
+### Skills
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
