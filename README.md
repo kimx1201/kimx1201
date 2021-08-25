@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimx1201&count_private=true&show_icons=true&theme=react&include_all_commits=True)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimx1201&count_private=true&show_icons=true&theme=cobalt&include_all_commits=True)
