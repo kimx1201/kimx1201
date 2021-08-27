@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
+> Lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
 > trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
 ### Skills
