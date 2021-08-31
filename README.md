@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimx1201&count_private=true&show_icons=true&theme=cobalt&include_all_commits=True)
