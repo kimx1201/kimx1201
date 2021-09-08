@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Lifelong learner, journalistic writer, dreamy data analyst, and intuitive designer.  
-> trying to be a data-driven with critical thinking, seeking insight from data.<br>
+> Lifelong learner, journalistic writer, people data scientist, and secret typeface designer.   
+> Trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
 ### Skills
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
