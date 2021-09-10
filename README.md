@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-
 > Lifelong learner, journalistic writer, people data scientist, and secret typeface designer.   
 > Trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
