@@ -1,10 +1,5 @@
 ### Hi there 👋   I am Gi Lim.  
 
-<!--
-**kimx1201/kimx1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 > Lifelong learner, journalistic writer, people data scientist, and secret typeface designer.   
 > Trying to be a data-driven with critical thinking, seeking insight from data.<br>
 
