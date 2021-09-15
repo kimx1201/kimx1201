@@ -1,7 +1,7 @@
 ### Hi there 👋   I am Gi Lim.  
 
 > Lifelong learner, journalistic writer, people data scientist, and secret typeface designer.   
-> Trying to be a data-driven with critical thinking, seeking insight from data.<br>
+> Trying to be a data-driven with critical thinking, seeking insight from data.
 
 ### Skills
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
