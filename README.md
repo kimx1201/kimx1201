@@ -1,6 +1,6 @@
 ### Hi there 👋   I am Gi Lim.  
 
-> Lifelong learner, journalistic writer, people data scientist, and secret typeface designer.   
+> Lifelong learner, journalistic writer, people data scientist and secret typeface designer.   
 > Trying to be a data-driven with critical thinking, seeking insight from data.
 
 ### Skills
